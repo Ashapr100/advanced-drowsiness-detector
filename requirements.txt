@@ -1,0 +1,6 @@
+opencv-python
+dlib
+imutils
+pygame
+scipy
+python-dotenv
