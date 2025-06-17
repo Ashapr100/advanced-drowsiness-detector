@@ -1,0 +1,9 @@
+# Ignore environment file
+.env
+
+# Ignore Python cache files
+__pycache__/
+*.pyc
+
+# Ignore model file (too large for GitHub)
+shape_predictor_68_face_landmarks.dat
