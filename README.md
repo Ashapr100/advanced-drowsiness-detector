@@ -63,17 +63,6 @@ advanced-drowsiness-detector/
 │   ├── alert_triggered.png
 │   └── eye_detected.png
 
-
-## 📸 Output Samples/Visuals
-
-These screenshots show real-time behavior:
-
-### 👁️ Eyes Detected (Normal State)
-![Eyes Detected](screenshots/eye_detected.png)
-
-### 🚨 Drowsiness Alert Triggered
-![Alert Triggered](screenshots/alert_triggered.png)
-
 ## 👨‍💻 Author
 Akash Garimella 
 
