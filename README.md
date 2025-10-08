@@ -63,9 +63,6 @@ advanced-drowsiness-detector/
 │   ├── alert_triggered.png
 │   └── eye_detected.png
 
-## 👨‍💻 Author
-Akash Garimella 
 
-## 📅 Date
 
 Nov 2023 - June 2024
